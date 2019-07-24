@@ -1,91 +1,44 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jeno Pizarro's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jeno Pizarro
+Data scientist working to improve the efficiency of drug review and post market surveillance through the use of machine learning and natural language processing
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jenopizzaro@gmai.com">jenopizzaro@gmail.com</a>
+| 856-673-6661 | Arlington, Virginia
 </div>
 
 
 ## Currently
+`2012-Present`
+__IBM__, Washington, DC
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Senior Managing Consultant
+- Minted coins
 
 ## Education
+`2008-2012`
+__James Madison University__, Harrisonburg, Virginia
 
-`1654-1660`
-__The King's School, Grantham.__
+- B.B.A. Economics
+- Summa Cum Laude, Honors College
+- Faculty Award for Academic Excellence in Economics
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2014`
+US Health and Human Services Secretary's Pick for Innovation
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+3x IBM Service Excellence Award
+IBM Advanced Analytics Einstein Award
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2019 -->
 
 
