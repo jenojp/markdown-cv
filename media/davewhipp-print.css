@@ -73,7 +73,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: 'IBM Plex Mono',Monaco,Menlo,monospace,sans-serif;
 	color: #ccc;
 }
 
@@ -115,7 +115,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: 'IBM Plex Sans',Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
 }
 
@@ -168,7 +168,7 @@ a:hover {
 	position: relative;
 	left: 25%;
 	color: #ccc;
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: 'IBM Plex Mono',Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
 
