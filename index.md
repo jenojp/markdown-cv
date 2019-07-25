@@ -22,25 +22,36 @@ __IBM__, Washington, DC
 __US Food and Drug Administration, Center Biologics Evaluation and Research__ BEST Initiative
 
 - NLP, Machine Learning Software Developer
+
 - Building new tools to improve the ease of detecting, evaluating, and submitting adverse events using electronic health records
+
 - Designed and built machine learning framework and NLP frameworks
+
 - Key tools: Python, spaCy, gensim, scikit-learn, FHIR, Docker, FastAPI
 
 `2017-2018`
 __US Food and Drug Administration, Center Biologics Evaluation and Research__ Adverse Event Causality Model
 - NLP, Machine Learning Software Developer
+
 - Developed model and conducted research project to determine the ability of machine learning models using NLP to replicate medical reviewer causality assessments.
+
 - Develop feature extractors in Python to read pertinent information from VAERS and FAERS records.
+
 - Utilize machine learning techniques (bayes, neural networks, SVM, logistic, decision trees, ensemble, boosting) to build classification models for adverse event causality.
+
 - Utilize NLP techniques and tools to utilize unstructured text in models such as: Word2Vec, TF-IDF, bag of words, LDA.
+
 - Work with team of doctors to assign and process cases and ensure training data is created in an unbiased fashion.
+
 - Key tools: Python, spaCy, gensim, scikit-learn, Keras, Flask
 
 `2013-2018`
 __US Food and Drug Administration, Center Drug Evaluation and Research, Office of Computational Sciences__ OCS Services (JumpStart)
 
-- Clinical data analyst 
+- Clinical data analyst
+
 - Helped develop repeatable data analysis and support services for Medical Officers and Statistical Reviewers conducting priority new drug applications.
+
 
 `2012-2013`
 __USPS Transit Time Measurement Study__
