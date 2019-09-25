@@ -3,7 +3,7 @@ layout: cv
 title: Jeno Pizarro's Resume
 ---
 # Jeno Pizarro
-Developer working to improve the efficiency of drug review and post market surveillance through the use of machine learning and natural language processing
+Developer working to improve the efficiency of drug review and post market surveillance through the use of machine learning and natural language processing. Maintainer of [negspacy](https://spacy.io/universe/project/negspacy)
 
 <div id="webaddress">
 <a href="jenopizzaro@gmai.com">jenopizzaro@gmail.com</a>
